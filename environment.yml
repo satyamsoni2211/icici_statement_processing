@@ -3,10 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - numpy=1.16.2=py37hacdab7b_0
-  - openjdk=11.0.1=h01d97ff_1016
-  - pandas=0.24.2=py37h0a44026_0
-  - tabula-py=1.4.1=py37_0
+  - numpy=1.16.2
+  - openjdk=11.0.1
+  - pandas=0.24.2
+  - tabula-py=1.4.1
   - pip:
     - distro==1.4.0
     - pdf-statement-reader==0.1.3
